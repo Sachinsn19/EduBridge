@@ -1,2 +1,2 @@
 # Assignment Works
-This folder contains  my works done during the session of PG diploma in Data Analytics course. 
+These folders contains  my assignment works done during the sessions of PG diploma in Data Analytics course. 
