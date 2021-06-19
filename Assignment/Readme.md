@@ -1,1 +1,1 @@
-These folders contains  my works done during the Python session of PG diploma in Data Analytics course. 
+This folder contains  my works done during the session of PG diploma in Data Analytics course. 
