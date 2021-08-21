@@ -5,11 +5,11 @@ This repository contains all the projects and assignments done by me during my P
 # Contents :
 
 ## Assignments :
-  ⚜
+  🔅
   
-  ⚜
+  🔅
   
-  ⚜
+  🔅
                
       
 ## Projects :
