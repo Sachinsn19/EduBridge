@@ -32,12 +32,6 @@ This repository contains all the projects and assignments done by me during my P
   🔲 Python Core
                
   
-# Languages :
-
-  ⚙ Python
-  
-  ⚙ R
-  
 # Tools Used :
 
   🛠 Jupyter
