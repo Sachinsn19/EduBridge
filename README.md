@@ -18,9 +18,18 @@ This repository contains all the projects and assignments done by me during my P
   ⚜
   
   ⚜
+  
 # Languages :
   🔯 Python
   
   🔯 R
   
+# Tools Used :
+  🛠 Jupyter
+  
+  🛠 R Studio
+  
+  🛠 Excel
+  
+  🛠 Tableau 
             
