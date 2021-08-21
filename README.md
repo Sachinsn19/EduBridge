@@ -35,15 +35,13 @@ This repository contains all the projects and assignments done by me during my P
                   ▶ Covid Data Analysis
              📁 Machine Learning
                   ▶ Diesel Price in India
-               
      ⚙ R            
              📁 Exploratory Data Analysis
   
   🔆 Python Core
                
              ▶ Movie Theater Ticket Booking
-                
-  
+               
   
 # Languages :
 
