@@ -19,10 +19,8 @@ This repository contains all the projects and assignments done by me during my P
   
   ⚜
 # Languages :
-  ⚜
-  🔯
+  🔯 Python
   
-  🔯
- 
-  🔯
+  🔯 R
+  
             
