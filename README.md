@@ -16,19 +16,15 @@ This repository contains all the projects and assignments done by me during my P
   
   🔆 Data Analysis
   
-               📁 Python![image](https://user-images.githubusercontent.com/85150311/130313060-01fff4fb-e1ba-4f9b-8ae8-e16644b230e6.png)
-
+               📁 Python
                
-              🗄🗃
-                              🔹 EDA 
-                              
-                              🔹 
-                             
-                              🔹
-                    
                📁 R
   
   🔆 Group Projects
+  
+               📁 Python
+               
+               📁 R
   
   🔆 Python Core
   
