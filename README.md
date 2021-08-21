@@ -17,7 +17,7 @@ This repository contains all the projects and assignments done by me during my P
      📁 Tableau
                  ▶ Negative Profit Finding
   
-  🔆 Data Analysis
+  🔆 Analysis
   
      ⚙ Python   
              📁 Exploratory Data Analysis
