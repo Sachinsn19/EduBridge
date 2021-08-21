@@ -19,26 +19,26 @@ This repository contains all the projects and assignments done by me during my P
   
   🔲 Analysis
   
-     ⚙ Python   
+        🔘 Python   
      
-             🔘 Exploratory Data Analysis
+              ◻ Exploratory Data Analysis
                      ▶ Kerala Accidents EDA from 2005 to 2020
                      ▶ Covid Data Analysis
-             🔘 Machine Learning
+              ◻ Machine Learning
                      ▶                                                                                    
-     ⚙ R
+        🔘 R
   
   🔲 Group Projects
   
-     ⚙ Python
+        🔘 Python
      
-             🔘 Exploratory Data Analysis
+              ◻ Exploratory Data Analysis
                      ▶ Video Games Analysis
                      ▶ Covid Data Analysis
-             🔘 Machine Learning
+              ◻ Machine Learning
                      ▶ Diesel Price in India
-     ⚙ R            
-             🔘 Exploratory Data Analysis
+        🔘 R            
+              ◻ Exploratory Data Analysis
   
   🔲 Python Core
                
