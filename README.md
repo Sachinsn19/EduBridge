@@ -39,7 +39,7 @@ This repository contains all the projects and assignments done by me during my P
   
   🔆 Python Core
                
-               ▶ Movie Theater Ticket Booking
+             ▶ Movie Theater Ticket Booking
                 
   
   
