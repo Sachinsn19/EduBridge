@@ -27,14 +27,14 @@ This repository contains all the projects and assignments done by me during my P
   
   🔆 Group Projects
   
-     📁 Python          
+     ⚙ Python          
              📁 Exploratory Data Analysis
                   ▶ Video Games Analysis
                   ▶ Covid Data Analysis
              📁 Machine Learning
                   ▶ Diesel Price in India
                
-     📁 R            
+     ⚙ R            
              📁 Exploratory Data Analysis
   
   🔆 Python Core
