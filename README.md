@@ -11,9 +11,9 @@ This repository contains all the projects and assignments done by me during my P
 ## Projects :
   🔆 Dashboard
   
-               📁 Excel
+  📁 Excel
                
-               📁 Tableau
+  📁 Tableau
   
   🔆 Data Analysis
   
