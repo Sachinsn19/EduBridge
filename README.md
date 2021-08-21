@@ -12,37 +12,24 @@ This repository contains all the projects and assignments done by me during my P
   🔲 Dashboard
   
         🔘 Excel 
-              ▶ Kerala Accident Data 2005-2020
                
         🔘 Tableau
-              ▶ Negative Profit Finding
+              
   
   🔲 Analysis
   
         🔘 Python   
-     
-              ◻ Exploratory Data Analysis
-                     ▶ Kerala Accidents EDA from 2005 to 2020
-                     ▶ Covid Data Analysis
-              ◻ Machine Learning
-                     ▶                                                                                    
+                                                                                   
         🔘 R
   
   🔲 Group Projects
   
         🔘 Python
      
-              ◻ Exploratory Data Analysis
-                     ▶ Video Games Analysis
-                     ▶ Covid Data Analysis
-              ◻ Machine Learning
-                     ▶ Diesel Price in India
         🔘 R            
-              ◻ Exploratory Data Analysis
+              
   
   🔲 Python Core
-               
-     ▶ Movie Theater Ticket Booking
                
   
 # Languages :
