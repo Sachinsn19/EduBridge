@@ -18,11 +18,35 @@ This repository contains all the projects and assignments done by me during my P
   
                📁 Python
                
+                         📂 EDA  
+                         
+                                     ▶
+                                     
+                                     ▶
+                         
+                         📂 Machine Learning
+                                 
+                                     ▶
+                                     
+                                     ▶
+               
                📁 R
   
   🔆 Group Projects
   
                📁 Python
+               
+                         📂 EDA  
+                         
+                                     ▶
+                                     
+                                     ▶
+                         
+                         📂 Machine Learning
+                                 
+                                     ▶
+                                     
+                                     ▶
                
                📁 R
   
