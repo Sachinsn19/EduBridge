@@ -12,10 +12,10 @@ This repository contains all the projects and assignments done by me during my P
   🔆 Dashboard
   
      📁 Excel 
-                 ▶ Kerala Accident Data 2005-2020
+         ▶ Kerala Accident Data 2005-2020
                
      📁 Tableau
-                 ▶ Negative Profit Finding
+         ▶ Negative Profit Finding
   
   🔆 Analysis
   
@@ -40,7 +40,7 @@ This repository contains all the projects and assignments done by me during my P
   
   🔆 Python Core
                
-             ▶ Movie Theater Ticket Booking
+      ▶ Movie Theater Ticket Booking
                
   
 # Languages :
