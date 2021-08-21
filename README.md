@@ -17,11 +17,12 @@ This repository contains all the projects and assignments done by me during my P
   
   🔆 Data Analysis
   
-     📁 Python          🔓 Exploratory Data Analysis
-                                                    ▶ Kerala Accidents EDA from 2005 to 2020
-                                                    ▶ Covid Data Analysis
-                         🔓 Machine Learning
-                                                    ▶            
+     📁 Python          
+             🔓 Exploratory Data Analysis
+                  ▶ Kerala Accidents EDA from 2005 to 2020
+                  ▶ Covid Data Analysis
+             🔓 Machine Learning
+                  ▶                                                                                    
      📁 R
   
   🔆 Group Projects
