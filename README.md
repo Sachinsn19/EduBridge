@@ -9,7 +9,7 @@ This repository contains all the projects and assignments done by me during my P
   🔅 Python
   
 ## Projects :
-  🔆 Dashboard
+  ⚜ Dashboard
   
      📁 Excel 
               ▶ Kerala Accident Data 2005-2020
