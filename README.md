@@ -11,32 +11,32 @@ This repository contains all the projects and assignments done by me during my P
 ## Projects :
   🔲 Dashboard
   
-     📁 Excel 
+        🔘 Excel 
               ▶ Kerala Accident Data 2005-2020
                
-     📁 Tableau
+        🔘 Tableau
               ▶ Negative Profit Finding
   
   🔲 Analysis
   
      ⚙ Python   
-             📁 Exploratory Data Analysis
+             🔘 Exploratory Data Analysis
                      ▶ Kerala Accidents EDA from 2005 to 2020
                      ▶ Covid Data Analysis
-             📁 Machine Learning
+             🔘 Machine Learning
                      ▶                                                                                    
      ⚙ R
   
   🔲 Group Projects
   
      ⚙ Python
-             📁 Exploratory Data Analysis
+             🔘 Exploratory Data Analysis
                      ▶ Video Games Analysis
                      ▶ Covid Data Analysis
-             📁 Machine Learning
+             🔘 Machine Learning
                      ▶ Diesel Price in India
      ⚙ R            
-             📁 Exploratory Data Analysis
+             🔘 Exploratory Data Analysis
   
   🔲 Python Core
                
