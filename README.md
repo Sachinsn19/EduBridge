@@ -17,7 +17,7 @@ This repository contains all the projects and assignments done by me during my P
      📁 Tableau
               ▶ Negative Profit Finding
   
-  🔆 Analysis
+  🔲 Analysis
   
      ⚙ Python   
              📁 Exploratory Data Analysis
@@ -27,7 +27,7 @@ This repository contains all the projects and assignments done by me during my P
                      ▶                                                                                    
      ⚙ R
   
-  🔆 Group Projects
+  🔲 Group Projects
   
      ⚙ Python
              📁 Exploratory Data Analysis
@@ -38,7 +38,7 @@ This repository contains all the projects and assignments done by me during my P
      ⚙ R            
              📁 Exploratory Data Analysis
   
-  🔆 Python Core
+  🔲 Python Core
                
              ▶ Movie Theater Ticket Booking
                
