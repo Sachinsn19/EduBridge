@@ -5,6 +5,7 @@ This repository contains all the projects and assignments done by me during my P
 # Contents :
 
 ## Assignments :
+
   🔅 Python
   
 ## Projects :
@@ -20,13 +21,13 @@ This repository contains all the projects and assignments done by me during my P
                
                          🔓 Exploratory Data Analysis  
                          
-                                     ▶ Kerala Accidents EDA from 2005 to 2020
+                                                    ▶ Kerala Accidents EDA from 2005 to 2020
                                      
-                                     ▶ Covid Data Analysis
+                                                    ▶ Covid Data Analysis
                          
                          🔓 Machine Learning
                                  
-                                     ▶  
+                                                    ▶  
                
                📁 R
   
@@ -36,13 +37,13 @@ This repository contains all the projects and assignments done by me during my P
                
                          🔓 Exploratory Data Analysis  
                          
-                                     ▶ Video Games Analysis
+                                                    ▶ Video Games Analysis
                                      
-                                     ▶ Covid Data Analysis
+                                                    ▶ Covid Data Analysis
                          
                          🔓 Machine Learning
                                  
-                                     ▶ Diesel Price in India
+                                                    ▶ Diesel Price in India
                
                📁 R   
                
@@ -61,6 +62,7 @@ This repository contains all the projects and assignments done by me during my P
   🔯 R
   
 # Tools Used :
+
   🛠 Jupyter
   
   🛠 R Studio
