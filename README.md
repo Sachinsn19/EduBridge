@@ -18,13 +18,13 @@ This repository contains all the projects and assignments done by me during my P
   
                📁 Python
                
-                         📂 EDA  
+                         🔓 EDA  
                          
                                      ▶
                                      
                                      ▶
                          
-                         📂 Machine Learning
+                         🔓 Machine Learning
                                  
                                      ▶
                                      
@@ -36,13 +36,13 @@ This repository contains all the projects and assignments done by me during my P
   
                📁 Python
                
-                         📂 EDA  
+                         🔓 EDA  
                          
                                      ▶
                                      
                                      ▶
                          
-                         📂 Machine Learning
+                         🔓 Machine Learning
                                  
                                      ▶
                                      
