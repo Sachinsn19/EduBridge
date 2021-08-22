@@ -6,7 +6,7 @@ This repository contains all the projects and assignments done by me during my P
 
 ## Assignments :
 
-🔲 Python 
+🔲 <b>Python</b> 
   
 ## Projects :
 
@@ -43,17 +43,4 @@ This repository contains all the projects and assignments done by me during my P
   
   🛠 Tableau 
   
-  <p>+++</p>
- <ul>
-<li>foo</li>
-</ul>
-
-<ul>
-<li>bar</li>
-</ul>
-<ul>
-<li>
-<p>one</p>
-<p>two</p>
-</li>
-</ul>
+ 
