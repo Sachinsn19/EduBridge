@@ -11,7 +11,7 @@ This repository contains all the projects and assignments done by me during my P
 
 ## Projects :
 
-  🔲 <b>Dashboard</b>
+  <blockquote>🔲 <b>Dashboard</b></blockquote>
   
         🔘 Excel 
                
@@ -19,14 +19,14 @@ This repository contains all the projects and assignments done by me during my P
               
   <hr />
   
-  🔲 <b>Analysis</b>
+  <blockquote>🔲 <b>Analysis</b></blockquote>
   
         🔘 Python   
                                                                                    
         🔘 R
   <hr />
   
-  🔲 <b>Group Projects</b>
+  <blockquote>🔲 <b>Group Projects</b></blockquote>
   
         🔘 Python
      
@@ -34,7 +34,7 @@ This repository contains all the projects and assignments done by me during my P
               
   <hr />
   
-  🔲 <b>Python Core</b>
+  <blockquote>🔲 <b>Python Core</b></blockquote>
             
   <hr/>
   
