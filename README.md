@@ -6,7 +6,7 @@ This repository contains all the projects and assignments done by me during my P
 
 ## Assignments :
 
-🔲 <b>Python</b>
+<blockquote>🔲 <b>Python</b></blockquote>
 <hr/>  
 
 ## Projects :
