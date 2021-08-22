@@ -44,3 +44,14 @@ This repository contains all the projects and assignments done by me during my P
   🛠 Tableau 
   
  
+<ol>
+<li>
+<p>A paragraph
+with two lines.</p>
+<pre><code>indented code
+</code></pre>
+<blockquote>
+<p>A block quote.</p>
+</blockquote>
+</li>
+</ol>
