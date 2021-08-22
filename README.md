@@ -6,9 +6,7 @@ This repository contains all the projects and assignments done by me during my P
 
 ## Assignments :
 
-🔲 Python
-
-  
+🔲 Python 
   
 ## Projects :
 
@@ -18,20 +16,20 @@ This repository contains all the projects and assignments done by me during my P
                
         🔘 Tableau
               
-  
+  <hr />
   🔲 Analysis
   
         🔘 Python   
                                                                                    
         🔘 R
-  
+  <hr />
   🔲 Group Projects
   
         🔘 Python
      
         🔘 R            
               
-  
+  <hr />
   🔲 Python Core
                
   
@@ -49,7 +47,7 @@ This repository contains all the projects and assignments done by me during my P
  <ul>
 <li>foo</li>
 </ul>
-<hr />
+
 <ul>
 <li>bar</li>
 </ul>
