@@ -10,27 +10,27 @@ This repository contains all the projects and assignments done by me during my P
   
 ## Projects :
 
-  🔲 Dashboard
+  🔲 <b>Dashboard</b>
   
         🔘 Excel 
                
         🔘 Tableau
               
   <hr />
-  🔲 Analysis
+  🔲 <b>Analysis</b>
   
         🔘 Python   
                                                                                    
         🔘 R
   <hr />
-  🔲 Group Projects
+  🔲 <b>Group Projects</b>
   
         🔘 Python
      
         🔘 R            
               
   <hr />
-  🔲 Python Core
+  🔲 <b>Python Core</b>
   <hr />             
   
 # Tools Used :
