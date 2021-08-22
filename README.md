@@ -45,12 +45,12 @@ This repository contains all the projects and assignments done by me during my P
   
  
 <ol>
-<li>
+<li></li>
+</ol>
 <p>Projects</p>
 <pre><code>indented code
 </code></pre>
 <blockquote>
 <p><b>Dashboard</b></p>
 </blockquote>
-</li>
-</ol>
+
