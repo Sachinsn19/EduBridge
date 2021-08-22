@@ -31,7 +31,7 @@ This repository contains all the projects and assignments done by me during my P
               
   <hr />
   🔲 Python Core
-               
+  <hr />             
   
 # Tools Used :
 
