@@ -4,7 +4,7 @@ This repository contains all the projects and assignments done by me during my P
 
 # Contents :
 
-## <h1>Assignments</h1> :
+## Assignments :
 
 🔲 <b>Python</b>
 <hr/>  
