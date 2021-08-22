@@ -5,10 +5,14 @@ This repository contains all the projects and assignments done by me during my P
 # Contents :
 
 ## Assignments :
-
-  🔲 Python
+<ul>
+<li>🔲 Python</li>
+</ul>
+<hr />
+  
   
 ## Projects :
+
   🔲 Dashboard
   
         🔘 Excel 
