@@ -34,8 +34,7 @@ This repository contains all the projects and assignments done by me during my P
   
 # Tools Used :
 
-  🛠 ![250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon](https://user-images.githubusercontent.com/85150311/130360581-0c1c3867-aa9c-4a33-80f8-1e9f82ed759c.png)
-Jupyter
+  🛠 Jupyter
   
   🛠 R Studio
   
