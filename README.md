@@ -46,12 +46,11 @@ This repository contains all the projects and assignments done by me during my P
  
 <ol>
 <li>
-<p>A paragraph
-with two lines.</p>
+<p>Projects</p>
 <pre><code>indented code
 </code></pre>
 <blockquote>
-<p>A block quote.</p>
+<p><b>Dashboard</b></p>
 </blockquote>
 </li>
 </ol>
