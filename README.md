@@ -44,13 +44,3 @@ This repository contains all the projects and assignments done by me during my P
   🛠 Tableau 
   
  
-<ol>
-<li></li>
-</ol>
-<p>Projects</p>
-<pre><code>saddd
-</code></pre>
-<blockquote>
-<p><b>Dashboard</b></p>
-</blockquote>
-
