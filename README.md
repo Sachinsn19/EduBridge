@@ -8,6 +8,7 @@ This repository contains all the projects and assignments done by me during my P
 
 🔲 <b>Python</b>
 <hr/>  
+
 ## Projects :
 
   🔲 <b>Dashboard</b>
@@ -33,6 +34,7 @@ This repository contains all the projects and assignments done by me during my P
   🔲 <b>Python Core</b>
             
   <hr/>
+  
 ## Tools Used :
 
   🛠 Jupyter
