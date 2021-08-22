@@ -3,7 +3,6 @@ EduBridge is a workforce development organization that has been setup with the v
 This repository contains all the projects and assignments done by me during my Pg diploma Data Analytics course in EduBridge.
 
 # Contents :
-<hr/>
 
 ## Assignments :
 
@@ -33,7 +32,7 @@ This repository contains all the projects and assignments done by me during my P
   <hr />
   🔲 <b>Python Core</b>
             
-  
+  <hr/>
 # Tools Used :
 
   🛠 Jupyter
