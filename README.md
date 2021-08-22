@@ -18,12 +18,14 @@ This repository contains all the projects and assignments done by me during my P
         🔘 Tableau
               
   <hr />
+  
   🔲 <b>Analysis</b>
   
         🔘 Python   
                                                                                    
         🔘 R
   <hr />
+  
   🔲 <b>Group Projects</b>
   
         🔘 Python
@@ -31,6 +33,7 @@ This repository contains all the projects and assignments done by me during my P
         🔘 R            
               
   <hr />
+  
   🔲 <b>Python Core</b>
             
   <hr/>
