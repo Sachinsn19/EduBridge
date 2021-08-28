@@ -6,7 +6,8 @@ These folders contains all the project works done during  my PG diploma in Data 
 
 ## Analysis :
 
-  <blockquote>🔘 <b>Python</b></blockquote>
+  <blockquote>🔘 <b>Python</b></blockquote> 
+     
   
   <blockquote>🔘 <b> R</b></blockquote>
   
@@ -22,7 +23,7 @@ These folders contains all the project works done during  my PG diploma in Data 
   
 ## Group Projects :
 
-  <blockquote>🔘 <b>Python</b></blockquote>
+  <blockquote>🔘 <b>Python</b></blockquote> 
   
   <blockquote>🔘 <b> R</b></blockquote>
   
