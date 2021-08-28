@@ -6,38 +6,35 @@ These folders contains all the project works done during  my PG diploma in Data 
 
 ## Analysis :
 
-  <blockquote>🔲 <b>Python</b></blockquote>
+  <blockquote>🔘 <b>Python</b></blockquote>
+  
+  <blockquote>🔘 <b> R</b></blockquote>
+  
+  <hr />
+  
+## Dashboards :
 
+  <blockquote>🔘 <b>Excel</b></blockquote>
   
-        🔘 Excel 
-               
-        🔘 Tableau
-              
-  <hr />
-  
-  <blockquote>🔲   R<b> </b></blockquote>
-  
-        🔘    
-                                                                                   
-        🔘 
-  <hr />
-  
-  <blockquote>🔲 <b>Group Projects</b></blockquote>
-  
-        🔘 Python
-     
-        🔘 R            
-              
-  <hr />
-  ## Assignments :
+  <blockquote>🔘 <b>Tableau</b></blockquote>
 
-<blockquote>🔲 <b>Python</b></blockquote>
+  <hr />
+  
+## Group Projects :
+
+  <blockquote>🔘 <b>Python</b></blockquote>
+  
+  <blockquote>🔘 <b> R</b></blockquote>
+  
+  <hr />
+  
+  
+  ## Python Core :
+
+<blockquote> 📂 <b>Movie Theater Ticket Booking </b></blockquote>
+
 <hr/>  
-  
-  <blockquote>🔲 <b>Python Core</b></blockquote>
-            
-  <hr/>
-  
+   
 ## Tools Used :
 
   🛠 Jupyter
