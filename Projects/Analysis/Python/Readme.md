@@ -4,11 +4,12 @@ This project anlyses the accident data of Kerala from the year of 2005 to 2020 o
 
 ## Language : Python
 ## Tool used : Jupyter Notebook 
-## Data :
-[Yearwisetotal.csv](https://github.com/Sachinsn19/EduBridge/files/7027545/Yearwisetotal.csv)
-[TYPES123.csv](https://github.com/Sachinsn19/EduBridge/files/7027546/TYPES123.csv)
-[ROADS123.csv](https://github.com/Sachinsn19/EduBridge/files/7027547/ROADS123.csv)
+## Data : [Yearwisetotal.csv](https://github.com/Sachinsn19/EduBridge/files/7027545/Yearwisetotal.csv), [TYPES123.csv](https://github.com/Sachinsn19/EduBridge/files/7027546/TYPES123.csv), [ROADS123.csv](https://github.com/Sachinsn19/EduBridge/files/7027547/ROADS123.csv), [TIMESDATA.csv](https://github.com/Sachinsn19/EduBridge/files/7027548/TIMESDATA.csv)
+
+
+
 [TIMESDATA.csv](https://github.com/Sachinsn19/EduBridge/files/7027548/TIMESDATA.csv)
+
 
 # COVID-19  Exploratory Data Analysis
 
