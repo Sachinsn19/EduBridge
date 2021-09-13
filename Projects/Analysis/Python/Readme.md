@@ -22,8 +22,8 @@ This project anlyses the accident data of Kerala from the year of 2005 to 2020 o
 
 ## Language : Python
 ## Tool used : Jupyter Notebook 
-## Data :
-[USA_Housing.csv](https://github.com/Sachinsn19/EduBridge/files/7156633/USA_Housing.csv)
+## Data : [USA_Housing.csv](https://github.com/Sachinsn19/EduBridge/files/7156633/USA_Housing.csv)
+
 
 
 
