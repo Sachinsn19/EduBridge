@@ -4,9 +4,7 @@ This is  a group project which was done as group during sessions of data analyti
 
 ## Tool Used : Jupyter Notebook          
 ## Data : [video games.xlsx](https://github.com/Sachinsn19/EduBridge/files/7027581/video.games.xlsx)
-
-
-
+<br></br>
 # Diesel Price prediction using Supervised learning 
 
 ## Tool Used : Jupyter Notebook
