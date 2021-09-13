@@ -6,6 +6,9 @@ This is  a group project which was done as group during sessions of data analyti
 ## Data : [video games.xlsx](https://github.com/Sachinsn19/EduBridge/files/7027581/video.games.xlsx)
 
 
+# Diesel Price prediction using Supervised learning 
+
+## Tool Used : Jupyter Notebook
 ## Data : [diesel.csv](https://github.com/Sachinsn19/EduBridge/files/7027605/diesel.csv)
 
 
