@@ -10,7 +10,8 @@ This project anlyses the accident data of Kerala from the year of 2005 to 2020 o
 
 ## Language : Python
 ## Tool used : Jupyter Notebook 
-## Data :
+## Data : [covid_19_data.csv](https://github.com/Sachinsn19/EduBridge/files/7231592/covid_19_data.csv)
+
 <br></br>
 # House Price prediction(Linear Regression)
 
