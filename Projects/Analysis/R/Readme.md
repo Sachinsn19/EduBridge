@@ -1,4 +1,4 @@
-## COVID-19  Exploratory Data Analysis
+## Foods in India EDA
 
 ## Language : R
 ## Tool used : R Studio 
