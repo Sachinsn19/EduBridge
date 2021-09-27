@@ -1,4 +1,4 @@
-# # COVID-19  Exploratory Data Analysis
+## COVID-19  Exploratory Data Analysis
 
 ## Language : R
 ## Tool used : R Studio 
