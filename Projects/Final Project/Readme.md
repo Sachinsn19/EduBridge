@@ -1,32 +1,30 @@
 # Amazon Prime Series Dashboard work
 
 ## Tool used : Tableau 
-## Data :
+## Data : [Prime TV Shows.csv](https://github.com/Sachinsn19/EduBridge/files/7233124/Prime.TV.Shows.csv)
 
 
 # Pima Indians Diabetes Report
 
 ## Tool used : Excel 
-## Data :
+## Data : [diabetes.csv](https://github.com/Sachinsn19/EduBridge/files/7233123/diabetes.csv)
 
 
 # Amazon Prime TV shows(Logistic Regression)
 
 ## Language : Python
 ## Tool used : Jupyter Notebook 
-## Data :
+## Data : [Prime TV Shows.csv](https://github.com/Sachinsn19/EduBridge/files/7233124/Prime.TV.Shows.csv)
 
 
 # Diabetes Projects in SAS
 
 ## Language : SAS
 ## Tool used : SAS Studio
-## Data :
+## Data : [diabetes.csv](https://github.com/Sachinsn19/EduBridge/files/7233123/diabetes.csv)
 
 # PimaIndiansDiabetes
 
 ## Language : R
-## Tool used : R Studio[diabetes.csv](https://github.com/Sachinsn19/EduBridge/files/7233123/diabetes.csv)
-[Prime TV Shows.csv](https://github.com/Sachinsn19/EduBridge/files/7233124/Prime.TV.Shows.csv)
-
-## Data :
+## Tool used : R Studio
+## Data : [Prime TV Shows.csv](https://github.com/Sachinsn19/EduBridge/files/7233124/Prime.TV.Shows.csv)
