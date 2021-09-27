@@ -1,4 +1,4 @@
-## Foods in India EDA
+# Foods in India EDA
 
 ## Language : R
 ## Tool used : R Studio 
