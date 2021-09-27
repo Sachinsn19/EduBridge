@@ -29,6 +29,10 @@ This repository contains all the projects and assignments done by me during my P
   <blockquote>🔲 <b>Python Core</b></blockquote>
             
   <hr/>
+ 
+  <blockquote>🔲 <b>Final Project</b></blockquote>
+            
+  <hr/>  
   
 ## Tools Used :
 
@@ -38,6 +42,9 @@ This repository contains all the projects and assignments done by me during my P
   
   🛠 Excel
   
-  🛠 Tableau 
+  🛠 Tableau
+  
+  🛠 SAS Studio
+  
   
  
