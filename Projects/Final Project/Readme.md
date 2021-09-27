@@ -23,3 +23,10 @@
 ## Tool used : SAS Studio
 ## Data :
 
+# PimaIndiansDiabetes
+
+## Language : R
+## Tool used : R Studio[diabetes.csv](https://github.com/Sachinsn19/EduBridge/files/7233123/diabetes.csv)
+[Prime TV Shows.csv](https://github.com/Sachinsn19/EduBridge/files/7233124/Prime.TV.Shows.csv)
+
+## Data :
